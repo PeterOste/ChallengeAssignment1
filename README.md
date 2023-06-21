@@ -1,6 +1,5 @@
-# Week-1-Challenge
+# Horiseon Marketing Website
 
-Horiseon Marketing Website
 This website is a single page for a company called Horiseon that specializes in marketing solutions and social services. Included on the site are three services that they offer; Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
 ## Github pages url
